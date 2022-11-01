@@ -1,2 +1,2 @@
-# Quant_analysis
+# Quantitative data analysis on Indian markets
 Projects
